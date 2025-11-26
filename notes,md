@@ -1,0 +1,19 @@
+---
+layout: page
+title: Learning Notes
+nav_order: 1
+---
+
+# 📚 Learning Notes
+
+Here I document everything I'm learning about programming and development.
+
+## Git & GitHub
+- [Git Basics](/notes/git-notes.md)
+- [GitHub Workflow](/notes/github-workflow.md)
+
+## Programming
+- *More notes coming soon!*
+
+## Web Development
+- *HTML/CSS/JavaScript notes in progress*
