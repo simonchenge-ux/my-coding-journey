@@ -1,4 +1,3 @@
----
 layout: page
 title: Projects
 nav_order: 2
